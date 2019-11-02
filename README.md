@@ -1,3 +1,3 @@
 # mktorrent-webgui
 ------
-A Web Base GUI for [mktorrent](https://github.com/Rudde/mktorrent).
+A PHP Based WebGUI for [mktorrent](https://github.com/Rudde/mktorrent).
