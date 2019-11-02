@@ -18,6 +18,8 @@ Autoloader::Init();
 
 
 
-$log = new \CoBay\mktorrent_webgui\Lib\Logger('general',false);
+$log = new Lib\Logger('general',false);
 $log->empty();
+
+
 
