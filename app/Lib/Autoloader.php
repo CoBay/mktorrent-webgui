@@ -9,7 +9,7 @@ class Autoloader {
 	
 	
 	public static function Init(){
-		self::$_root = \CoBay\mktorrent_webgui\ROOT;
+		self::$_root = APP_ROOT;
 		
 		spl_autoload_register(['self', 'Load']);
 	}

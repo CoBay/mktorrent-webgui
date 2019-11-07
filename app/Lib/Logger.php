@@ -14,7 +14,7 @@ class Logger {
 		if( $datebased ){
 			$logname . '-' . date('Y-m-d');
 		}
-		$this->_fp = \CoBay\mktorrent_webgui\LOGS . $logname . '.log';
+		$this->_fp = LOGS . $logname . '.log';
 	}
 	
 	

@@ -4,6 +4,6 @@
 namespace CoBay\mktorrent_webgui\Exceptions;
 
 
-class FilePermissions extends CustomBaseException {
+class ServerError extends CustomBaseException {
 	
 }
